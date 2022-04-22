@@ -8,7 +8,7 @@
 6、QTreeWidgetItem控件的使用，添加头节点和子节点（英雄介绍）<br>
 7、使用QTabelWidget创建表格，名字、性别、年龄<br>
 8、其他控件的使用，添加动图等等，Qlabel添加jpg动图<br>
-9、封装自己的小控件，新建设计师界面类，主窗口中QWidget提升为smallWaiget，setUI函数()将当前类设置为UI的基类，<br>
+9、封装自己的小控件，新建设计师界面类，主窗口中QWidget提升为smallWaiget，setUI函数()将当前类设置为UI的基类，
       ui包含smallWaiget和Widget两个类，提供get_num和set_num对外接口<br>
 10、QEvent事件，新建mylabel类，将控件提升为mylabel类。实现鼠标进入，离开标签时，打印信息。鼠标点击、移动、释放。定时器。事件分发器，事件过滤器<br>
 11、画图QPainter事件以及界面update()刷新<br>
