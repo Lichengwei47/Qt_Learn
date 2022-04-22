@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>open.png</file>
+        <file>test.png</file>
+        <file>test2.png</file>
+        <file>dongtu.jfif</file>
+    </qresource>
+</RCC>
